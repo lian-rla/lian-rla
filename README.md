@@ -32,7 +32,7 @@
   
 |기간|활동|직급|
 |:-:|-:|:-|
-|<sub>2025.06 ~ 25.12</sub> | **LeeLab Research Engineer** | Undergraduate Student |
+|<sub>2025.06 ~ 25.12</sub> | **Seoul National University BCS Research Engineer** | Undergraduate Student |
 
 
 </div>
