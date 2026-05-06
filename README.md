@@ -5,6 +5,9 @@
   <img align="right" width="36" src="https://play.pokemonshowdown.com/sprites/bwani/psyduck.gif" />
   
   ---
+*[I would appreciate it if you could visit my tech blog and leave a message.](http://lian-kim.com/guestbook)*
+
+
 <sub><sup><b>바른피앤티(baarnPNT)</b> (2024.08 - 2026.01)</sup></sub>  
 
 
